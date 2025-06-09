@@ -1,6 +1,8 @@
 # Model Data Visualization Dashboard
 
-A full-stack application for managing and visualizing machine learning model metadata with interactive 2D/3D representations.
+A concise full-stack app for model management with upload, display, and deletion features. It visualizes parsed data on a dashboard using Recharts, focusing on Operator Distribution, Input vs Output, complexity metrics, and layer details. The app employs Canvas for 2D and Three.js for 3D rendering.
+
+![Dashboard Screenshot](path_to_screenshot_image)
 
 ## Features
 
@@ -23,6 +25,9 @@ A full-stack application for managing and visualizing machine learning model met
   - Optimized metadata transfer
   - Efficient database storage
 
+- **Screenshot Feature**
+  - Capture screenshots of visualizations and dashboards
+
 ## Technology Stack
 
 **Frontend**:
@@ -40,7 +45,7 @@ A full-stack application for managing and visualizing machine learning model met
 
 ## Optimization Highlights
 
-✔ Client-side data parsing reduces server load  
-✔ Selective metadata storage minimizes database usage  
-✔ Efficient filtering system for responsive visualizations  
+✔ Client-side data parsing reduces server load
+✔ Selective metadata storage minimizes database usage
+✔ Efficient filtering system for responsive visualizations
 ✔ Discovered TensorSpace for advanced model visualization
