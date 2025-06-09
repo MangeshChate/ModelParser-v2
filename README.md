@@ -27,6 +27,11 @@ Below are some screenshots of our dashboard:
 </div>
 
 
+### Screenshot 5
+<div style="margin: 20px; border: 2px solid #ddd; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="screenshot/5.png" alt="Dashboard Screenshot 5" style="border-radius: 8px;">
+</div>
+
 ## Features
 
 - **Model Management**
