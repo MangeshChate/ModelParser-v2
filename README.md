@@ -2,10 +2,30 @@
 
 A concise full-stack app for model management with upload, display, and deletion features. It visualizes parsed data on a dashboard using Recharts, focusing on Operator Distribution, Input vs Output, complexity metrics, and layer details. The app employs Canvas for 2D and Three.js for 3D rendering.
 
-![Dashboard Screenshot 1](screenshot/1.png)
-![Dashboard Screenshot 2](screenshot/2.png)
-![Dashboard Screenshot 3](screenshot/3.png)
-![Dashboard Screenshot 4](screenshot/4.png)
+# Dashboard Screenshots
+
+Below are some screenshots of our dashboard:
+
+### Screenshot 1
+<div style="margin: 20px; border: 2px solid #ddd; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="screenshot/1.png" alt="Dashboard Screenshot 1" style="border-radius: 8px;">
+</div>
+
+### Screenshot 2
+<div style="margin: 20px; border: 2px solid #ddd; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="screenshot/2.png" alt="Dashboard Screenshot 2" style="border-radius: 8px;">
+</div>
+
+### Screenshot 3
+<div style="margin: 20px; border: 2px solid #ddd; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="screenshot/3.png" alt="Dashboard Screenshot 3" style="border-radius: 8px;">
+</div>
+
+### Screenshot 4
+<div style="margin: 20px; border: 2px solid #ddd; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="screenshot/4.png" alt="Dashboard Screenshot 4" style="border-radius: 8px;">
+</div>
+
 
 ## Features
 
